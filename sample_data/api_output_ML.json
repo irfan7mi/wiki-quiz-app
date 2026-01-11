@@ -1,0 +1,178 @@
+{
+  "id": 20,
+  "url": "https://en.wikipedia.org/wiki/Machine_learning",
+  "title": "Machine learning",
+  "data": {
+    "summary": "Machine learning (ML) is a branch of artificial intelligence that develops statistical algorithms capable of learning from data and generalizing to new situations without explicit instructions. It relies on foundations of statistics and mathematical optimization, encompassing types such as supervised, unsupervised, and reinforcement learning. The field has evolved from early neural models and checkers programs in the 1950s to advanced deep learning techniques like GANs and AlphaGo.",
+    "key_entities": [
+      {
+        "name": "Arthur Samuel",
+        "role": "IBM employee who coined the term machine learning in 1959"
+      },
+      {
+        "name": "Donald Hebb",
+        "role": "Psychologist who introduced theoretical neural structures in 1949"
+      },
+      {
+        "name": "Tom M. Mitchell",
+        "role": "Provided a formal operational definition of machine learning algorithms"
+      },
+      {
+        "name": "Ian Goodfellow",
+        "role": "Introduced generative adversarial networks (GANs) in 2014"
+      },
+      {
+        "name": "Raytheon Company",
+        "role": "Developed the Cybertron learning machine in the early 1960s"
+      }
+    ],
+    "quiz_questions": [
+      {
+        "question": "Who is credited with coining the term 'machine learning' in 1959?",
+        "options": [
+          {
+            "text": "Alan Turing",
+            "is_correct": false
+          },
+          {
+            "text": "Arthur Samuel",
+            "is_correct": true
+          },
+          {
+            "text": "Donald Hebb",
+            "is_correct": false
+          },
+          {
+            "text": "Nils Nilsson",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Arthur Samuel, an IBM employee and pioneer in AI, coined the term in 1959.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to Tom M. Mitchell, a computer program learns from experience E with respect to task T and performance measure P if:",
+        "options": [
+          {
+            "text": "Its performance at tasks in T improves with experience E",
+            "is_correct": true
+          },
+          {
+            "text": "It can perform task T without any data",
+            "is_correct": false
+          },
+          {
+            "text": "It mimics human cognitive processes perfectly",
+            "is_correct": false
+          },
+          {
+            "text": "It uses deep learning to solve task T",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Mitchell's formal definition states that learning occurs if performance P at task T improves with experience E.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which field is described as focusing on exploratory data analysis through unsupervised learning?",
+        "options": [
+          {
+            "text": "Predictive analytics",
+            "is_correct": false
+          },
+          {
+            "text": "Computer vision",
+            "is_correct": false
+          },
+          {
+            "text": "Data mining",
+            "is_correct": true
+          },
+          {
+            "text": "Speech recognition",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Data mining is a related field that focuses on exploratory data analysis (EDA) through unsupervised learning.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What was the primary function of the 'Cybertron' developed by Raytheon in the 1960s?",
+        "options": [
+          {
+            "text": "To play checkers against humans",
+            "is_correct": false
+          },
+          {
+            "text": "To analyze sonar signals and speech patterns",
+            "is_correct": true
+          },
+          {
+            "text": "To generate realistic synthetic data",
+            "is_correct": false
+          },
+          {
+            "text": "To prove the Turing test",
+            "is_correct": false
+          }
+        ],
+        "explanation": "The Cybertron was an experimental learning machine used to analyze sonar signals, electrocardiograms, and speech patterns.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which 2014 advancement allowed for realistic data synthesis?",
+        "options": [
+          {
+            "text": "AlphaGo",
+            "is_correct": false
+          },
+          {
+            "text": "Generative adversarial networks (GANs)",
+            "is_correct": true
+          },
+          {
+            "text": "The Cybertron",
+            "is_correct": false
+          },
+          {
+            "text": "Empirical risk minimisation",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Ian Goodfellow and others introduced GANs in 2014, which are used for realistic data synthesis.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Donald Hebb's 1949 work 'The Organization of Behavior' introduced what concept?",
+        "options": [
+          {
+            "text": "The 'goof' button for reinforcement",
+            "is_correct": false
+          },
+          {
+            "text": "A theoretical neural structure formed by nerve cell interactions",
+            "is_correct": true
+          },
+          {
+            "text": "The first checkers-playing program",
+            "is_correct": false
+          },
+          {
+            "text": "The PAC learning framework",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Hebb introduced a theoretical neural structure that set the groundwork for how artificial neurons communicate data.",
+        "difficulty": "hard"
+      }
+    ],
+    "related_topics": [
+      "Artificial intelligence",
+      "Deep learning",
+      "Data mining",
+      "Neural networks",
+      "Predictive analytics"
+    ]
+  },
+  "created_at": "2026-01-11T16:41:32.745927"
+}

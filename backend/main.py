@@ -123,6 +123,7 @@ async def get_history(db: Session = Depends(get_db)):
 
 
 @app.get("/")
+@app.head("/")
 async def root():
     """Root endpoint"""
     return {"message": "Wiki Quiz App API", "version": "1.0.0"}

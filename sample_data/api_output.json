@@ -1,0 +1,151 @@
+{
+  "id": 19,
+  "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+  "title": "Artificial intelligence",
+  "data": {
+    "summary": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans. These machines can perform tasks such as learning, reasoning, problem-solving, perception, and language understanding. The field has evolved from simple rule-based systems to complex neural networks and generative models.",
+    "key_entities": [
+      {
+        "name": "Alan Turing",
+        "role": "Pioneer of AI and computer science"
+      },
+      {
+        "name": "Machine Learning",
+        "role": "A subset of AI focused on learning from data"
+      },
+      {
+        "name": "Neural Networks",
+        "role": "Algorithms modeled after the human brain"
+      },
+      {
+        "name": "Generative AI",
+        "role": "AI capable of creating new content"
+      }
+    ],
+    "quiz_questions": [
+      {
+        "question": "What is the primary goal of the Turing Test?",
+        "options": [
+          {
+            "text": "To measure a machine's processing speed",
+            "is_correct": false
+          },
+          {
+            "text": "To determine if a machine can exhibit human-like intelligence",
+            "is_correct": true
+          },
+          {
+            "text": "To test the durability of hardware",
+            "is_correct": false
+          },
+          {
+            "text": "To calculate mathematical complexity",
+            "is_correct": false
+          }
+        ],
+        "explanation": "The Turing Test, developed by Alan Turing in 1950, tests a machine's ability to exhibit intelligent behavior indistinguishable from that of a human.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which subfield of AI involves the use of multiple layers in neural networks to extract higher-level features from data?",
+        "options": [
+          {
+            "text": "Expert Systems",
+            "is_correct": false
+          },
+          {
+            "text": "Deep Learning",
+            "is_correct": true
+          },
+          {
+            "text": "Robotics",
+            "is_correct": false
+          },
+          {
+            "text": "Symbolic AI",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Deep learning is a subset of machine learning based on artificial neural networks with multiple layers (hence 'deep').",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does 'NLP' stand for in the context of AI?",
+        "options": [
+          {
+            "text": "Natural Language Processing",
+            "is_correct": true
+          },
+          {
+            "text": "Neural Logic Programming",
+            "is_correct": false
+          },
+          {
+            "text": "Network Layer Protocol",
+            "is_correct": false
+          },
+          {
+            "text": "Node Learning Process",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Natural Language Processing (NLP) is the branch of AI that helps computers understand, interpret, and manipulate human language.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which type of AI is currently the only one that exists in reality?",
+        "options": [
+          {
+            "text": "Artificial General Intelligence (AGI)",
+            "is_correct": false
+          },
+          {
+            "text": "Artificial Narrow Intelligence (ANI)",
+            "is_correct": true
+          },
+          {
+            "text": "Artificial Super Intelligence (ASI)",
+            "is_correct": false
+          },
+          {
+            "text": "Sentient AI",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Artificial Narrow Intelligence (ANI) is designed to perform specific tasks. AGI and ASI are currently theoretical.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the term for the bias that occurs when an AI system produces results that are systematically prejudiced due to erroneous assumptions in the machine learning process?",
+        "options": [
+          {
+            "text": "Algorithmic Bias",
+            "is_correct": true
+          },
+          {
+            "text": "Data Redundancy",
+            "is_correct": false
+          },
+          {
+            "text": "Systemic Latency",
+            "is_correct": false
+          },
+          {
+            "text": "Neural Drift",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Algorithmic bias occurs when human prejudices are reflected in the data or the design of the algorithm, leading to unfair outcomes.",
+        "difficulty": "hard"
+      }
+    ],
+    "related_topics": [
+      "Machine learning",
+      "Ethics of artificial intelligence",
+      "Deep learning",
+      "History of artificial intelligence",
+      "Large language model"
+    ]
+  },
+  "created_at": "2026-01-11T16:37:39.648933"
+}
